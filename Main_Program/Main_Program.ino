@@ -26,7 +26,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 void setup() {
   Serial.begin(115200);
-  Wire.begin(17,16);
+  Wire.begin(18,19);
   WiFi.begin(ssid, password);
   while (Wifi.status() != WL_CONNECTED) {
     Serial.println("Wifi is connecting...");
