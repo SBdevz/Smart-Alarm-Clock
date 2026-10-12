@@ -6,8 +6,7 @@ It includes an OLED display that shows weather conditions and temperature, a buz
 
 Right now, there is a basic schematic of the PCB and a small program in this repository. The project is a work in progress, so I will make final changes when the PCB arrives!
 
-<img width="419" height="319" alt="Screenshot 2026-10-11 224335" src="https://github.com/user-attachments/assets/bc0f820b-dc5d-49e2-a36c-55974bc2a808" />
-
+<img width="419" height="319" alt="Screenshot 2026-10-11 224335" src="https://github.com/user-attachments/assets/96236ac5-ba12-4f16-9778-ba2986bf07c7" />
 
 ### Features
 * Uses the ESP32 Chip to read online data
